@@ -81,11 +81,7 @@ function renderLicenseSection(license) {
 function noLicense(data, license) {
   console.log(data);
   if (license !== 'NO LICENSE') {
-    return `## License
-    ${data.license}
-    ${renderLicenseBadge(data.license)}
-    ${renderLicenseSection(data.license)}
-    `;
+    return `## License \n${data.license} \n${renderLicenseBadge(data.license)} \n${renderLicenseSection(data.license)}`;
   } else {
     return ``;
   }
