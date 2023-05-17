@@ -4,7 +4,7 @@
 
 This week 9 objective is to create in javascript a README.md generator using fs and inquirer packages.
 
-Pro-README Generator walkthrough video: 
+Pro-README Generator walkthrough video: https://drive.google.com/file/d/1ue8oYIpGcR0TA2ZKfXdSb7PvbyGbFf92/view
 
 ## Installation
 N/A

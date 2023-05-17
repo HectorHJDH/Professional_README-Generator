@@ -1,35 +1,35 @@
 
-  # w
+  # README generator
 
   ## Description
   
-  a
+  Javascript README generator using inquirer and fs packages.
   
   ## Table of Contents
   
-  a
+  README 
   
   ## Installation
   
-  a
+  1. ETC 
   
   ## Usage
   
-  a
+  Type node index.js to start the prompts in console
   
   ## License 
-GNU 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)] 
-(https://www.gnu.org/licenses/gpl-3.0)
+Apache 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)] 
+(https://opensource.org/license/apache-2-0/)
 
   ## Contributing
   
-  a
+  HectorHJDH
   
   ## Tests
   
-  a
+  NONE
   
   ## Questions
   
-  You can send an email to a for questions about the project.
+  You can send an email to hectorjosue78@gmail.com for questions about the project.
