@@ -17,10 +17,11 @@
   
   
   
-  ## License 
-    Unlicense
-    [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)]
-    (https://unlicense.org/)
+  ## License
+    Apache
+    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+    (https://opensource.org/license/apache-2-0/)
+    
 
   ## Contributing
   
@@ -32,4 +33,4 @@
   
   ## Questions
   
-  
+  You can send an email to  for questions about the project.
