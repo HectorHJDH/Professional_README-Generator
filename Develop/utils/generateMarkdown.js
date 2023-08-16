@@ -120,7 +120,7 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  You can send an email to ${data.Questions} for questions about the project.
+  You can contact to ${`https://github.com/HectorHJDH for resolving: "` + data.Questions + `" or send a email to: hectorjosue78@gmail.com `} or other questions about the project.
 `;
 }
 

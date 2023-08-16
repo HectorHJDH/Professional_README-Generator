@@ -7,11 +7,11 @@
   
   ## Table of Contents
   
-  README 
+  README
   
   ## Installation
   
-  1. ETC 
+  1.ETC
   
   ## Usage
   
@@ -32,4 +32,4 @@ Apache
   
   ## Questions
   
-  You can send an email to hectorjosue78@gmail.com for questions about the project.
+  You can contact to https://github.com/HectorHJDH for resolving: "How did you do it?" or send a email to: hectorjosue78@gmail.com  or other questions about the project.
